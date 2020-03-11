@@ -1,0 +1,209 @@
+Unique Identifier,College,Major 1,Major 2 (if any),Minor (if any),Start Semester,Graduation Semester,Gender,Year in school (Based on tentative graduation),Decision
+A1,Grainger College of Engineering,Engineering: Undeclared,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A2,Gies College of Business,Technology Management,,,Fall 2019,July 2020,Male,Graduate Student,N
+A3,Grainger College of Engineering,Computer Science,,,Fall 2019,Spring 2023,Female,Freshman,Y
+A4,College of Fine and Applied Arts,Urban and Regional Planning ,,,Fall 2017,Spring 2021,Male,Junior,N
+A5,College of Liberal Arts & Sciences,Econometrics,,Computer Science,Fall 2018,Spring 2022,Male,Sophomore,N
+A6,Gies College of Business,Technology Management ,,Business Data Analytics,Summer 2019,Spring 2020,Male,Graduate Student,N
+A7,Grainger College of Engineering,Mechanical Engineering,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A8,"College of Agricultural, Consumer and Environmental Sciences",Agricultural and Consumer Economics,,,Fall 2015,Spring 2020,Male,Senior,N
+A9,College of Liberal Arts & Sciences,Economics,,Informatics,Spring 2019,Spring 2021,Female,Junior,N
+A10,Grainger College of Engineering,Computer Engineering,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A11,Grainger College of Engineering,Computer Science,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A12,Gies College of Business,Buisness: Unassigned,,,Fall 2019,Spring 2023,Male,Freshman,N
+A13,Grainger College of Engineering,Computer Science,,Business,Fall 2018,Spring 2022,Male,Sophomore,Y
+A14,Grainger College of Engineering,Industrial Engineering,,,Fall 2019,Spring 2021,Male,Graduate Student,N
+A15,Grainger College of Engineering,Computer Engineering,,,Fall 2019,Spring 2023,Male,Freshman,N
+A16,Grainger College of Engineering,Computer Engineering,,,2019,2023,Male,Freshman,N
+A17,Grainger College of Engineering,Engineering Mechanics,Statistics,Mathematics,Fall 2019,Spring 2023,Male,Freshman,Y
+A18,Grainger College of Engineering,Electrical Engineering,,,Fall 2019,Spring 2023,Male,Freshman,N
+A19,Gies College of Business,Finance,,,Fall 2018,May 2022,Male,Sophomore,Y
+A20,Grainger College of Engineering,Engineering Physics,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A21,Grainger College of Engineering,Computer Engineering,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A22,Gies College of Business,Finance,Accounting,,Fall 2018,Spring 2022,Male,Sophomore,N
+A23,Grainger College of Engineering,Computer Engineering,,Business,Fall 2017,Spring 2021,Male,Junior,Y
+A24,Gies College of Business,Technology Management,,,Summer 2019,Spring 2020,Female,Graduate Student,N
+A25,Grainger College of Engineering,Industrial Engineering,,Computer Engineering,Fall 2017,Spring 2021,Male,Junior,N
+A26,College of Liberal Arts & Sciences,Actuarial science ,,,Fall 2019,May 2023,Male ,Freshman,Y
+A27,Grainger College of Engineering,Computer Engineering,,,Fall 2019,Spring 2023,Female,Freshman,Y
+A28,Grainger College of Engineering,Industrial Engineering,,Economics/Business,Fall 2018,Spring 2022,Male,Sophomore,Y
+A29,College of Information Sciences,Information Management,,,Spring' 19,Fall' 20,Male,Graduate Student,N
+A30,Grainger College of Engineering,Bioengineering,n/a,Possibly T&M or Business,Fall 2018,Spring 2022,Male,Sophomore,Y
+A31,Grainger College of Engineering,Computer Science,,Economics (strongly considering),Fall 2019,Spring 2023,Male,Freshman,Y
+A32,Grainger College of Engineering,Computer Science,,,2018,2022,Male,Sophomore,Y
+A33,Gies College of Business,Finance,Accountancy ,,Fall 2018,Spring 2022,Male,Sophomore,N
+A34,Grainger College of Engineering,Computer Science,,Business or T&M (based on application),Fall 2019,Spring 2022,Male,Sophomore,Y
+A35,Gies College of Business,Business Administration - Management ,,,Fall 2019,Spring 2020 ,Female ,Graduate Student,Y
+A36,Gies College of Business,Accounting,,,Fall 2017,Spring 2021,Male,Junior,N
+A37,Gies College of Business,FInance ,Accounting,,Fall 2019 ,Spring 2023 ,Male,Freshman,Y
+A38,Gies College of Business,Finance,,,August 2018,May 2022,Male,Sophomore,Y
+A39,Grainger College of Engineering,Industrial Engineering,,,Fall 2017,Fall 2020,Male,Junior,N
+A40,"College of Agricultural, Consumer and Environmental Sciences",Food Science and Human Nutrition,,,Fall 2018,Fall 2020,Male,Senior,N
+A41,Gies College of Business,Information systems,Supply chain management(applying),,fall 2018,spring 2022,male,Sophomore,Y
+A42,Gies College of Business,Undeclared Business,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A43,Gies College of Business,information systems,,Supply Chain Management,August 2018,May 2022,Male,Sophomore,N
+A44,College of Liberal Arts & Sciences,Economics,Political Science,,Fall 2019,May 2020,Male,Senior,N
+A45,College of Liberal Arts & Sciences,Psychology,,"Business, Informatics ",2016 Fall,2020 Fall,Male,Senior,N
+A46,Gies College of Business,Accounting,,,2019 summer,2020 spring,Female,Graduate Student,N
+A47,Gies College of Business,accountancy ,,,2019,2020,female,Graduate Student,N
+A48,Division of General Study,Transferring to Consumer Economics,,,August 2018,May 2022,Male,Sophomore,Y
+A49,Gies College of Business,Operations Management,,,Fall 2016,Fall 2020,Male,Senior,N
+A50,Grainger College of Engineering,Computer Engineering,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A51,Grainger College of Engineering,Mechanical Engineering,,,Fall 2019,Spring 2023,Male,Freshman,N
+A52,Grainger College of Engineering,Computer Science,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A53,Grainger College of Engineering,Electrical and Computer Engineering,,,Fall 2016 (Spain),Spring 2020,Male,Senior,N
+A54,Gies College of Business,Business undeclared (intended: finance),,,Fall 2019,Spring 2023,Female,Freshman,Y
+A55,Gies College of Business,Accountancy,,,May 2019,May 2021,Female ,Junior,N
+A56,College of Liberal Arts & Sciences,Cell Biology,Will try to add Economics,,Fall 2019,Spring 2023,Female,Freshman,Y
+A57,College of Liberal Arts & Sciences,Chemical & Biomolecular Engineering,,,Fall 16,Spring 20,Male,Senior,N
+A58,Gies College of Business,Accounting ,Supply Chain Management (currently applying into program),Spanish (focus in linguistics),Fall 2018,Spring 2022,Male,Sophomore,Y
+A59,Grainger College of Engineering,Systems Engineering & Design,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A60,College of Liberal Arts & Sciences,Statistics,Thinking of economics,,Fall 2019,Spring 2022,Male,Junior,N
+A61,Gies College of Business,Technology Management,,,Summer 2019,Spring 2020,Male,Graduate Student,N
+A62,Grainger College of Engineering,Industrial Engineering,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A63,Grainger College of Engineering,Civil Engineering,,,Fall 2019,May 2020,Male,Graduate Student,N
+A64,"College of Agricultural, Consumer and Environmental Sciences",Agricultural and Consumer Economics,,,Fall 2019,Spring 2023,Male,Freshman,N
+A65,"College of Agricultural, Consumer and Environmental Sciences",ACE,,Computer Science,Fall 2018,Spring 2022,Male,Sophomore,N
+A66,College of Liberal Arts & Sciences,Actuarial Science,,Computer Science,Fall 2019,Spring 2023,Male,Freshman,Y
+A67,College of Liberal Arts & Sciences,Statistics and Computer Science,,Business,Fall 2018,Spring 2022,Male,Sophomore,N
+A68,Gies College of Business,Accounting,,,August 2019,May 2023,Male,Freshman,N
+A69,"College of Agricultural, Consumer and Environmental Sciences",Agri accounting,,,August 2017,May 2021,Male,Junior,N
+A70,Grainger College of Engineering,Computer Science,,Art + Design,Fall 2016,May 2020,Female,Senior,N
+A71,Gies College of Business,Marketing,,,Fall 2018,2022,Female,Sophomore,Y
+A72,Gies College of Business,Accounting,,,Summer 2019,Spring 2020,Male,Graduate Student,N
+A73,Gies College of Business,Technology Management,,,Summer 2019,Spring 2020,Male,Graduate Student,N
+A74,"College of Agricultural, Consumer and Environmental Sciences",Agricultural and Consumer Economics,,Computer Science,Fall 2018,Spring 2022,Male,Sophomore,N
+A75,Grainger College of Engineering,Industrial Engineering,,Business,August 2018,May 2022,Male,Sophomore,Y
+A76,Gies College of Business,Accounting,Finance,,Fall 2019,Spring 2022,Male,Sophomore,N
+A77,"College of Agricultural, Consumer and Environmental Sciences",Food Science,,Business,Fall 2017,Fall 2020,Male,Senior,N
+A78,Gies College of Business,Information Systems & Information Technology,,,Fall 2016,Spring 2020,Male,Senior,N
+A79,College of Liberal Arts & Sciences,Econometrics and Quantitative Economics,,,Fall 2019,May 2021,Male,Transfer Junior - see resume for previous GPA,N
+A80,Grainger College of Engineering,Electrical Engineering,,Business,Fall 2017,Spring 2021,Male,Junior,N
+A81,Gies College of Business,Business Unassigned,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A82,Gies College of Business,Accountancy,,,June 2019,May 2020,Female,Graduate Student,N
+A83,Gies College of Business,Business Undecided,Maybe Finance,Maybe economics,Fall 2019,May 2023,Male,Freshman,Y
+A84,Gies College of Business,Master of Science in Accountancy,,,2019 summer,2020 spring,female,Graduate Student,N
+A85,Grainger College of Engineering,Electrical Engineering,,,Fall 2017,Fall 2021,Male,Junior,N
+A86,Grainger College of Engineering,Mechanical Engineering,,Statistics,August 2018,May 2022,Male,Sophomore,Y
+A87,Grainger College of Engineering,Computer Science,,,Fall 2019,Fall 2022,Male,Freshman,Y
+A88,College of Liberal Arts & Sciences,Economics,Political Science,,August 2016,May 2020,Female,Senior,N
+A89,Grainger College of Engineering,Aerospace Engineering,Economics,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A90,College of Liberal Arts & Sciences,CS and stat,,,September 2018,May 2022,Female,Sophomore,Y
+A91,Gies College of Business,Finance,Information Systems,German,08/18,05/22,Male,Sophomore,Y
+A92,Gies College of Business,Finance,Information Systems ,,August 2018,May 2022,Male,Sophomore,Y
+A93,Grainger College of Engineering,Computer Science and Statistics,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A94,College of Liberal Arts & Sciences,Actuarial Science,,,August 2017,May 2021,Female,Junior,N
+A95,Gies College of Business,International Business,Accounting,bioengineering ,Fall 2019,Spring 2023,female,Freshman,Y
+A96,College of Liberal Arts & Sciences,Psychology,Economics,Businesss,Fall 2018,Spring 2022,Female ,Sophomore,N
+A97,College of Liberal Arts & Sciences,Communications,,,08/2017,12/2020,Male,Junior,N
+A98,Grainger College of Engineering,Systems Engineering,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A99,College of Liberal Arts & Sciences,Chemical Engineering,,,Fall 2019,Spring 2023,Female,Freshman,Y
+A100,Grainger College of Engineering,Mechanical Engineering,,,Fall 2016,December 2020,Male,Junior,N
+A101,College of Liberal Arts & Sciences,Computer Science + Economics,,,Fall 2019,May 2023,Male,Freshman,Y
+A102,College of Liberal Arts & Sciences,Economics,Statistics,,Fall 2019,Spring 2023,Male,Freshman,Y
+A103,Gies College of Business,Information Systems,Finance,,Fall 2019,May 2023,Female,Freshman,Y
+A104,Grainger College of Engineering,Industrial Engineering,,,Fall 2018,May 2022,Male,Sophomore,N
+A105,Gies College of Business,Technology Management,,,August 2019,August 2020,Male,Graduate Student,N
+A106,Grainger College of Engineering,Industrial Engineering,,Applying to Hoeft Technology & Management Minor (currently in seminar),Fall 2018,Spring 2022,Male,Sophomore,Y
+A107,Gies College of Business,Business Undecided,,,Fall 2019,Spring 2023,Female,Freshman,Y
+A108,"College of Agricultural, Consumer and Environmental Sciences",Agricultural and consumer economics,,,2016 Fall,2020 Summer,Female,Junior,N
+A109,Gies College of Business,Finance,,,August 2018,May 2022,Male,Sophomore,N
+A110,"College of Agricultural, Consumer and Environmental Sciences",Agri-accounting ,,Business ,2027-2018,2020-2021,Male,Junior,N
+A111,Gies College of Business,Accountancy,Finance,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A112,Grainger College of Engineering,Industrial Engineering,,,Fall 2018,Spring 2022,Male,Sophomore,N
+A113,Grainger College of Engineering,Mechanical engineering,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A114,Grainger College of Engineering,Computer Engineering,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A115,Gies College of Business,Accounting,Information Systems/Technology,,Fall 2018,Spring 2022,Female,Sophomore,Y
+A116,Gies College of Business,Business Management,Business Marketing,Computer Science ,Fall 2018,Spring 2022,Male,Sophomore,N
+A117,Grainger College of Engineering,Computer Science,,,Fall 2016,Fall 2020,Female,Junior,N
+A118,School of Information Sciences,Information Management (Pathway: Data Science),,,Fall 2018,Spring 2020,Male,Graduate Student,Y
+A119,Applied Health Sciences,Community Health,,Business,Fall 2018,May 2021,Female,Junior,N
+A120,Grainger College of Engineering,Computer Engineering,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A121,Gies College of Business,Accounting,Finance,,Fall 2018,Spring 2022,male,Sophomore,N
+A122,College of Liberal Arts & Sciences,Statistics and Computer Science,,Business,Fall 2018,May 2022,Male,Sophomore,N
+A123,College of Media,Advertising,,"Global Markets Minor; Science, Technology & Markets Specialization ",Aug 2016,May 2020,F,Senior,N
+A124,Grainger College of Engineering,Engineering Undeclared,,,08/26/19,May 2023,Male,Freshman,Y
+A125,Grainger College of Engineering,Computer Science,Economics Minor,,Fall 2019,Spring 2023,Male,Freshman,Y
+A126,Gies College of Business,Technology Management,,,Fall 2019,Summer 2020,Male,Graduate Student,N
+A127,Gies College of Business,Finance/Information Systems,,,Fall 2018,Spring 2022,Female,Sophomore,Y
+A128,Division of General Studies,Undeclared,,,Fall 2018,Spring 2022,Male,Sophomore,N
+A129,Grainger College of Engineering,Aerospace engineering,Economics,,Fall 2018,Spring 2022,Male,Sophomore,N
+A130,Gies College of Business,Information Systems,Finance,,August,May,Male,Freshman,Y
+A131,Grainger College of Engineering,Computer Engineering,,Psychology,Fall 2018,Spring 2022,Male,Sophomore,Y
+A132,Gies College of Business,Finance,,,Fall 2018,Spring 2019,Male,Senior,N
+A133,Gies College of Business,Accounting,,,Fall 2019,Spring 2021,Male,Junior,N
+A134,College of Liberal Arts & Sciences,Statistics and Computer Science,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A135,Gies College of Business,Finance,,Computer Science,Fall 2018,Spring 2022,Female ,Sophomore,Y
+A136,College of Liberal Arts & Sciences,Econometrics and Quantitative Economics,N/A,Computer Science and Math,Fall 2017,Spring 2021,Male,Junior,N
+A137,Gies College of Business,Accountancy,Finance ,Computer Science,Fall 2018,Spring 2022,Male,Sophomore,Y
+A138,Grainger College of Engineering,Industrial Engineering,,,Fall 2019,Spring 2022,Male,Sophomore,Y
+A139,College of Liberal Arts & Sciences,Actuarial Science,Economics,,August 2017,May 2021,Male,Junior,N
+A140,Gies College of Business,Accountancy,ISIT,,2016,2021,female,Senior,N
+A141,Grainger College of Engineering,Bioengineering,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A142,Gies College of Business,Technology Management,,,"June, 2019","May, 2020",Male,Graduate Student,N
+A143,College of Liberal Arts & Sciences,Economics,,,"At UIUC, Fall 2019",Spring 2021,Male,Junior,N
+A144,College of Liberal Arts & Sciences,Computer Science and Statistics,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A145,College of Liberal Arts & Sciences,Econometrics,,Computer Science,Fall 2017,Spring 2021,Male,Junior,N
+A146,Gies College of Business,Technology Management,,Data Analytics (concentration),Fall 2019,Summer 2020 ,Female,Graduate Student,N
+A147,Gies College of Business,Technology Management,,Business Data Analytics,Fall 2019,Fall 2020,Female,Graduate Student,N
+A148,College of Liberal Arts & Sciences,Computer Science and Mathematics,,,Fall 2018,May 2022,Male,Sophomore,N
+A149,Gies College of Business,Finance,Accounting,,2018,2022,Male,Sophomore,N
+A150,Gies College of Business,Marketing ,Information Systems,,Fall 2018,May 2022,Male,Sophomore,Y
+A151,Gies College of Business,Business (Undeclared),,,Fall 2019,Spring 2023,Male,Freshman,Y
+A152,Gies College of Business,accountancy,information system,,2018 fall,2022 may,female,Sophomore,N
+A153,Gies College of Business,Information Systems,Economics,Technology and Management,Fall 2019,Spring 2023,Male,Freshman,Y
+A154,College of Liberal Arts & Sciences,Economics,,Business,Fall 2018,Spring 2022,Male,Sophomore,Y
+A155,College of Liberal Arts & Sciences,Computer Science + Astronomy,,,Fall 2018,Spring 2022,Male,Sophomore,Y
+A156,Division of General Studies,Finance,Information Systems,,Fall 2019,Spring 2023,Male,Freshman,N
+A157,Gies College of Business,Finance,,,Fall 2018,Spring 2022,Male,Sophomore,N
+A158,Grainger College of Engineering,Industrial Engineering,,,Fall 2019,Fall 2023,Male,Freshman,Y
+A159,Gies College of Business,Business Administration,,,FALL 2019,August 2020,Male,Graduate Student,N
+A160,Grainger College of Engineering,Computer Engineering,,,2018 - Fall ,2022 - Spring,Male,Sophomore,Y
+A161,Gies College of Business,Business Undeclared,,,Fall 2018,Spring 2022,Female,Sophomore,N
+A162,Division of General Studies,Pre-Engineering,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A163,Grainger College of Engineering,Systems Engineering and Design,,International Affairs,Fall 2019,Spring 2023,Male,Freshman,Y
+A164,College of Applied Health Science,Community Health,,,Fall 2018,Spring 2020,Female,Sophomore,N
+A165,College of Liberal Arts & Sciences,Psychology,,,Fall 2019,Spring 2023,Male,Freshman,N
+A166,Gies College of Business,Business Unassigned,,,Fall 2019,Spring 2023,Male,Freshman,N
+A167,Grainger College of Engineering,Industrial Engineering,,,Fall 2018,Spring 2021,Male,Junior,N
+A168,Gies College of Business,Technology Management,,Business Data Analytics,Fall 2019,Spring 2020,Male,Graduate Student,N
+A169,Gies College of Business,Business undeclared,,,Fall 2019,Spring 2023,Male ,Freshman,N
+A170,College of Liberal Arts & Sciences,CS + Linguistics,Information Systems/Information Technology,,Fall 2017,May 2021,Female,Junior,Y
+A171,School of Information Sciences,Information Management,,,Fall 2019,Spring 2021,Female,Graduate Student,N
+A172,Gies College of Business,Information Technology and Control,,,Fall Semester 2019,Summer  2020,Male,Graduate Student,Y
+A173,Grainger College of Engineering,Civil Engineering,,,Fall 2017,Spring 2021,Female,Junior,N
+A174,College of Liberal Arts & Sciences,Econometric,,,2018,2022,Female,Sophomore,N
+A175,College of Liberal Arts & Sciences,Computer Science and Mathematics,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A176,Grainger College of Engineering,Industrial Engineering,,,Fall 2018,Spring 2022,Female,Sophomore,Y
+A177,School of Information Sciences,Information Management,,,Fall 2019,Spring 2021,Male,Graduate Student,N
+A178,Division of General Studies,Undecided but leaning towards to corporate Finance ,,,Fall 2019,Spring 2023,Male,Freshman,N
+A179,Grainger College of Engineering,Computer Engineering,N/A,Business,Fall 2018,Spring 2022,Male,Sophomore,N
+A180,College of Liberal Arts & Sciences,Statistics & Computer Science,,,Fall 2018,Spring 2022,Female,Sophomore,Y
+A181,College of Liberal Arts & Sciences,Mathematics,,"Computer Science, Econometrics",Fall 2018,Spring 2022,Male,Sophomore,Y
+A182,Gies College of Business,Finance,Econometrics,,2019 Fall,2021 Spring ,Male ,Sophomore,N
+A183,Gies College of Business,Finance,,,Fall 2018,Spring 2021,Female,Sophomore,Y
+A184,College of Liberal Arts & Sciences,Economics ,,Statistics ,2013 Sep,2019 Dec,Male,Senior,N
+A185,College of Liberal Arts & Sciences,Biology,,,Fall 2018,Spring 2022,Female,Sophomore,Y
+A186,Gies College of Business,Accountancy,Finance,,Fall 2018,Spring 2022,Female,Sophomore,Y
+A187,Gies College of Business,Accounting with concentration in Data Analytics,,,2019 Fall,2020 Spring,female,Graduate Student,Y
+A188,College of Liberal Arts & Sciences,Computer Science and Chemistry,,,Fall 2017,Spring 2021,Male,Junior,N
+A189,Grainger College of Engineering,Electrical Engineering,,,Fall2018,Fall2020,Male,Graduate Student,N
+A190,Gies College of Business,Accountancy,,,Fall 2018,May 2022,Female,Junior,N
+A191,College of Liberal Arts & Sciences,Computer Science & Statistics,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A192,College of Liberal Arts & Sciences,Computer Science and Mathematics,,Business,Fall 2018,May 2022,Male,Sophomore,Y
+A193,"College of Agricultural, Consumer and Environmental Sciences",Agriculture and Consumer Economics: Finance and Consumer Economics,,,Fall 2019,Spring 2021,Male,Junior,N
+A194,Gies College of Business,Finance,,,2018 Fall,2019 Fall ,Female,Graduate Student,N
+A195,Gies College of Business,Accountancy,,,Summer 2019,Fall 2020,Female,Graduate Student,N
+A196,Division of General Studies,Undecided,,,Fall 2019,Spring 2023,Female,Freshman,N
+A197,College of Liberal Arts & Sciences,Statistics,will declare Actuarial Science next semester,,2018fall,2022fall,female,Sophomore,N
+A198,College of Liberal Arts & Sciences,Economics ,Spanish ,Business ,Fall 2019 ,Spring 2023,Female ,Freshman,N
+A199,Grainger College of Engineering,Computer Science,,,Fall 2019,Spring 2023,Male,Freshman,Y
+A200,Gies College of Business,Master Science in Technology Management,,,Fall 2019,Summer 2020,Female,Graduate Student,N
+A201,College of Liberal Arts & Sciences,Statistics,,,Spring 2019,Aug 2021,Male,Transfer senior,N
+A202,Gies College of Business,Accountancy,,,Fall 2018,Spring 2022,Female,Sophomore,Y
+A203,Gies College of Business,Accountancy,,,Summer 2019,Spring 2020,Female,Graduate Student,N
+A204,College of General Study,undeclared major,,,Fall 2019,Spring 2023,Female,Freshman,N
+A205,Gies College of Business,Master of Science in Technology Management,,,Summer 2019,May 2020,Male,Graduate Student,N
+A206,College of Liberal Arts & Sciences,Economics,Mathematics,,Fall 2017,Spring 2020,Male,Senior,N
+A207,Gies College of Business,MS in Technology Management,,,"Fall, 2019","Summer, 2020",Female,Graduate Student,N
+A208,Gies College of Business,Accountancy,Finance,Microeconomics,Fall 2018,Spring 2022,Male,Sophomore,Y
